@@ -1,0 +1,3 @@
+/media/elbossily/New Volume/cplusplus/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/media/elbossily/New Volume/cplusplus/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
+/media/elbossily/New Volume/cplusplus/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
